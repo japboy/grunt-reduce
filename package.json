@@ -26,7 +26,7 @@
     "node": "*"
   },
   "dependencies": {
-    "assetgraph-builder": "~1.8.0beta12"
+    "assetgraph-builder": "~1.8.0beta15"
   },
   "devDependencies": {
     "grunt": "~0.3.17"
